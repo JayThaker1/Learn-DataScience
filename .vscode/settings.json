@@ -1,3 +1,7 @@
 {
-    "terminal.integrated.gpuAcceleration": "auto"
+    "terminal.integrated.gpuAcceleration": "auto",
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "python.terminal.launchArgs": [
+    
+    ]
 }
